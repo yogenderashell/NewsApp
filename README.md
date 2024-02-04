@@ -53,8 +53,9 @@ ScreenShots:
 - - -
 ![image of the topbar of the webpage](https://github.com/yogenderashell/NewsApp/blob/main/Screenshots/topbar.png)
 - - -
-![Example of the card of a news](https://github.com/yogenderashell/NewsApp/blob/main/Screenshots/example.png)
-
+<div align="center">
+    <img src="https://github.com/yogenderashell/NewsApp/blob/main/Screenshots/example.png" alt="Example of the card of a news">
+</div>
 
 
 
