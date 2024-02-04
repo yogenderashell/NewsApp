@@ -1,0 +1,16 @@
+:root{
+  --platinum: #dee5e5ff;
+  --cambridge-blue: #9dc5bbff;
+  --mint: #17b890ff;
+  --hookers-green: #5e807fff;
+  --dark-green: #082d0fff;
+}
+*{
+  padding: 0;
+  margin: 0;
+}
+body,html{
+  height: auto;
+  background-color: var(--cambridge-blue);
+  color: whitesmoke;
+}
