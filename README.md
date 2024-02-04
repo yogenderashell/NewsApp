@@ -50,7 +50,9 @@ This command sets the NODE_OPTIONS environment variable to use the --openssl-leg
 ScreenShots: 
 --
 ![image of the homepage](https://github.com/yogenderashell/NewsApp/blob/main/Screenshots/homepage.png)
+- - -
 ![image of the topbar of the webpage](https://github.com/yogenderashell/NewsApp/blob/main/Screenshots/topbar.png)
+- - -
 ![Example of the card of a news](https://github.com/yogenderashell/NewsApp/blob/main/Screenshots/example.png)
 
 
