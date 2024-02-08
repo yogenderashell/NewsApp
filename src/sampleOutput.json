@@ -1,32 +1,189 @@
 {
-    "status": "ok",
-    "totalResults": 2,
-    "articles": [
-      {
-        "source": {
-          "id": "espn-cric-info",
-          "name": "ESPN Cric Info"
-        },
-        "author": null,
-        "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
-        "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
-        "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
-        "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
-        "publishedAt": "2020-04-27T11:41:47Z",
-        "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+  "status": "ok",
+  "totalResults": 18,
+  "articles": [
+    {
+      "source": { "id": "the-washington-post", "name": "The Washington Post" },
+      "author": "Michael Kranish",
+      "title": "Inside the breakup of Haley and Trump’s partnership over her U.N. role",
+      "description": "Nikki Haley faced an intractable problem working as U.N. ambassador under President Donald Trump, who disparaged the organization and international diplomacy.",
+      "url": "https://www.washingtonpost.com/politics/2024/01/19/haley-trump-united-nations-frayed-relationship/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/44ZHEVGL24I6RLIKBYA67OR4YE_size-normalized.jpg&w=1440",
+      "publishedAt": "2024-01-19T11:00:03Z",
+      "content": "Comment on this story\r\nComment\r\nAdd to your saved stories\r\nSave\r\nAs President Donald Trump listened inside the Oval Office, Nikki Haley pitched a dramatic gambitto jump-start Middle East peace talks:… [+25628 chars]"
+    },
+    {
+      "source": { "id": "al-jazeera-english", "name": "Al Jazeera English" },
+      "author": "Al Jazeera",
+      "title": "Palestinians welcome Chile and Mexico’s call for ICC probe into Gaza war",
+      "description": "Two countries express ‘growing worry’ over ‘escalation of violence’ in International Criminal Court referral.",
+      "url": "https://www.aljazeera.com/news/2024/1/19/palestinians-welcome-chile-and-mexico-call-for-icc-probe-into-gaza-war",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/10/AP23296493402537-1698071253.jpg?resize=1920%2C1440",
+      "publishedAt": "2024-01-19T10:02:13Z",
+      "content": "The Palestinian foreign ministry has welcomed a request by Chile and Mexico for the International Criminal Court (ICC) to investigate crimes against civilians, as Israels war on Gaza continues unabat… [+2525 chars]"
+    },
+    {
+      "source": { "id": "cbc-news", "name": "CBC News" },
+      "author": "CBC News",
+      "title": "Lifetime cost of military's Cyclone choppers set to soar past $14B, government document reveals | CBC News",
+      "description": "The lifetime cost of buying, owning and operating the air force's troubled CH-148 Cyclones is now expected to top $14.87 billion, according to leaked internal Department of National Defence briefing documents obtained by CBC News.",
+      "url": "http://www.cbc.ca/news/politics/cyclone-helicopters-defence-air-force-1.7088390",
+      "urlToImage": "https://i.cbc.ca/1.7088449.1705624237!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/helicopter-crash-2020623.jpg",
+      "publishedAt": "2024-01-19T09:07:26.5717649Z",
+      "content": "The lifetime cost of buying, owning and operating the air force's troubled CH-148 Cyclones is now expected to top $14.87 billion, according to a leaked internal Department of National Defence briefin… [+6707 chars]"
+    },
+    {
+      "source": {
+        "id": "australian-financial-review",
+        "name": "Australian Financial Review"
       },
-      {
-        "source": {
-          "id": "espn-cric-info",
-          "name": "ESPN Cric Info"
-        },
-        "author": null,
-        "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
-        "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
-        "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
-        "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
-        "publishedAt": "2020-03-30T15:26:05Z",
-        "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
-      }
-    ]
-  }
+      "author": "Laura Tingle",
+      "title": "Israel-Hamas war: The Middle East runs through Australian politics, like it or not",
+      "description": "The Dunkley by-election will be fought and lost on kitchen table issues. But it is a distant conflict that is piling pressure on political parties and even the national broadcaster.",
+      "url": "http://www.afr.com/politics/like-it-or-not-the-middle-east-runs-through-our-politics-20240119-p5eylo",
+      "urlToImage": "https://static.ffx.io/images/$zoom_0.2032%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_202%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_opinion_no_age_social_wm/8481030adbcc1a1a53dec2b51f01c2400848cd5c",
+      "publishedAt": "2024-01-19T08:16:06Z",
+      "content": "Even before these tax cuts were legislated in 2019, they were controversial because of their cost and because of the largesse they would shower on higher income earners.\r\nAs this column has previousl… [+6129 chars]"
+    },
+    {
+      "source": { "id": "al-jazeera-english", "name": "Al Jazeera English" },
+      "author": "Al Jazeera",
+      "title": "Pakistan to conduct national security review amid standoff with Iran",
+      "description": "Meeting of top military, civilian leaders is being held after Pakistan’s retaliatory strikes on armed groups in Iran.",
+      "url": "https://www.aljazeera.com/news/2024/1/19/pakistan-to-conduct-national-security-review-amid-standoff-with-iran",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/01/2024-01-18T114413Z_844404622_RC2BK5AOAQ3D_RTRMADP_3_IRAN-PAKISTAN-UGC-1705578301-e1705578325583.jpg?resize=1582%2C1550",
+      "publishedAt": "2024-01-19T08:12:12Z",
+      "content": "Pakistans top military and civilian leaders are to conduct a national security review over the standoff with Iran after the neighbouring countries targeted each other with missile strikes that have r… [+1995 chars]"
+    },
+    {
+      "source": { "id": "google-news-fr", "name": "Google News (France)" },
+      "author": "Le HuffPost",
+      "title": "La première semaine cauchemar d'Amélie Oudéa-Castéra à l'Éducation nationale - Le HuffPost",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMinwFodHRwczovL3d3dy5odWZmaW5ndG9ucG9zdC5mci9wb2xpdGlxdWUvYXJ0aWNsZS9hbWVsaWUtb3VkZWEtY2FzdGVyYS1sYS1wcmVtaWVyZS1zZW1haW5lLWNhdWNoZW1hci1kZS1sYS1ub3V2ZWxsZS1taW5pc3RyZS1kZS1sLWVkdWNhdGlvbi1uYXRpb25hbGVfMjI4NTMzLmh0bWzSAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-01-19T05:00:00+00:00",
+      "content": null
+    },
+    {
+      "source": { "id": "cbc-news", "name": "CBC News" },
+      "author": "CBC News",
+      "title": "Trudeau pushes back after Netanyahu again rejects two-state solution | CBC News",
+      "description": "Prime Minister Justin Trudeau today criticized Benjamin Netanyahu's position on Palestinian statehood after the Israeli president claimed in a nationally-televised speech that the so-called \"two-state solution\" is dead.",
+      "url": "http://www.cbc.ca/news/politics/netanyahu-palestinian-two-state-trudeau-1.7088225",
+      "urlToImage": "https://i.cbc.ca/1.7065887.1703113740!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/netanyahu-trudeau-composite.jpg",
+      "publishedAt": "2024-01-19T01:52:11.3384844Z",
+      "content": "Prime Minister Justin Trudeau criticized Benjamin Netanyahu's position on Palestinian statehood after the Israeli president claimed in a nationally-televised speech that the so-called \"two-state solu… [+9555 chars]"
+    },
+    {
+      "source": { "id": "the-hill", "name": "The Hill" },
+      "author": "Rafael Bernal",
+      "title": "Texas, US in legal standoff as state refuses to comply with directive on border access",
+      "description": "The government of Texas and the Biden administration are in a legal standoff over a public park along the U.S.-Mexico border, where Texas National Guard soldiers have blocked access to Border Patrol officials. Texas Attorney General Ken Paxton on Wednesday re…",
+      "url": "https://thehill.com/homenews/state-watch/4416126-texas-us-legal-standoff-eagle-pass-border/",
+      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2024/01/AP24012649494211-e1705600978472.jpg?w=1280",
+      "publishedAt": "2024-01-18T18:05:05Z",
+      "content": "Skip to content\r\nThe government of Texas and the Biden administration are in a legal standoff over a public park along the U.S.-Mexico border, where Texas National Guard soldiers have blocked access … [+4638 chars]"
+    },
+    {
+      "source": { "id": "le-monde", "name": "Le Monde" },
+      "author": "Sylvie Kauffmann",
+      "title": "« Avec la plainte de l’Afrique du Sud contre Israël pour génocide, le Sud conteste une mémoire dominée par la Shoah et lui oppose celle de la colonisation »",
+      "description": "Les audiences du recours déposé par Pretoria devant la Cour internationale de justice illustrent l’émergence du Sud global et sa remise en cause de l’ordre installé par les Occidentaux, estime dans sa chronique Sylvie Kauffmann, éditorialiste au « Monde ».",
+      "url": "https://www.lemonde.fr/idees/article/2024/01/17/avec-la-plainte-de-l-afrique-du-sud-contre-israel-pour-genocide-le-sud-conteste-une-memoire-dominee-par-la-shoah-et-lui-oppose-celle-de-la-colonisation_6211366_3232.html",
+      "urlToImage": "https://img.lemde.fr/2024/01/17/0/0/6720/4480/1440/960/60/0/3072562_1705475258370-160900.jpg",
+      "publishedAt": "2024-01-17T16:01:03Z",
+      "content": "Ce nest pas tout à fait un hasard si lun des plus brillants conseils de léquipe de juristes qui plaide le recours de lAfrique du Sud contre Israël, accusé de génocide devant la Cour internationale de… [+2581 chars]"
+    },
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": null,
+      "title": "Sports News | Breaking & Latest Sports News | Reuters",
+      "description": "Find latest sports news from every corner of the globe at Reuters.com, your online source for breaking international news coverage.",
+      "url": "https://www.reuters.com/sports/",
+      "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=172",
+      "publishedAt": "2024-01-16T17:22:25.7594988Z",
+      "content": null
+    },
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": null,
+      "title": "Lifestyle News | Today's Top Lifestyle Stories | Reuters",
+      "description": "Find latest lifestyle news from every corner of the globe at Reuters.com, your online source for breaking international news coverage.",
+      "url": "https://www.reuters.com/lifestyle/",
+      "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=172",
+      "publishedAt": "2024-01-16T17:07:23.7436836Z",
+      "content": null
+    },
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": null,
+      "title": "Science News | Today's Latest Science Headlines | Reuters",
+      "description": "Find latest science news from every corner of the globe at Reuters.com, your online source for breaking international news coverage.",
+      "url": "https://www.reuters.com/science/",
+      "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=170",
+      "publishedAt": "2024-01-16T17:07:21.9316348Z",
+      "content": null
+    },
+    {
+      "source": { "id": "nhl-news", "name": "NHL News" },
+      "author": "Dan Rosen",
+      "title": "NHL considering more unique destinations after Global Series -- Melbourne",
+      "description": "As the NHL continues its final preparations to bring teams to the Southern Hemisphere for the first time in September, it is already considering other unique international cities that could host preseason games in future seasons, NHL Deputy Commissioner Bill …",
+      "url": "https://www.nhl.com/news/nhl-considering-more-unique-destinations-after-australia/c-345683814",
+      "urlToImage": "https://cms.nhl.bamgrid.com/images/photos/343354742/1024x576/cut.jpg",
+      "publishedAt": "2023-09-01T04:00:00Z",
+      "content": "STOCKHOLM -- As the NHL continues its final preparations to bring teams to the Southern Hemisphere for the first time in September, it is already considering other unique international cities that co… [+2807 chars]"
+    },
+    {
+      "source": { "id": "lequipe", "name": "L'equipe" },
+      "author": "L'EQUIPE",
+      "title": "Transferts : Crystal Palace recrute Jefferson Lerma",
+      "description": "Le milieu international colombien Jefferson Lerma, libre de tout contrat après cinq ans à Bournemouth, a signé trois ans à Crystal Palace, ce jeudi.",
+      "url": "https://www.lequipe.fr/Football/Actualites/Transferts-crystal-palace-recrute-jefferson-lerma/1401507",
+      "urlToImage": "https://medias.lequipe.fr/img-photo-jpg/jefferson-lerma-j-feeney-offside-presse-sports/1500000001795952/0:0,1426:1426-640-640-75/fdf8d.jpg",
+      "publishedAt": "2023-06-08T14:09:07+00:00",
+      "content": "Libre après cinq ans à Bournemouth, qui avait dépensé plus de 30 millions d'euros pour se l'offrir en 2018, le milieu international colombien Jefferson Lerma s'est engagé ce jeudi avec Crystal Palace… [+77 chars]"
+    },
+    {
+      "source": { "id": "rte", "name": "RTE" },
+      "author": "RTÉ News",
+      "title": "Coveney condemns Gaza child deaths, urges UN to respond",
+      "description": "Simon Coveney commented: \"This cannot be acceptable to the international community. The UN Security Council needs to speak with one voice to hold those responsible to account.\"",
+      "url": "https://www.rte.ie/news/2021/0515/1221835-israel-palestine-reaction/",
+      "urlToImage": "https://img.rasset.ie/001657f0-1600.jpg",
+      "publishedAt": "2021-05-15T15:20:48Z",
+      "content": "The Minister for Foreign Affairs has condemned the deaths of children in Gaza as \"not acceptable\".\r\nSimon Coveney, posting on Twitter, also urged the United Nations Security Council (UNSC) to \"hold t… [+3316 chars]"
+    },
+    {
+      "source": { "id": "national-geographic", "name": "National Geographic" },
+      "author": null,
+      "title": "Bonus Episode: In Conversation: Reframing Black History and Culture",
+      "description": "National Geographic presents In Conversation, a special podcast episode featuring explorer Tara Roberts, computer scientist Gloria Washington, and photographer Ruddy Roye. Through their dynamic work across maritime archeology, artificial intelligence, and pho…",
+      "url": "https://www.nationalgeographic.com/podcasts/overheard/season-5/bonus-conversation-reframing-black-history-culture-month.html",
+      "urlToImage": "https://www.nationalgeographic.com/content/dam/ngdotcom/rights-exempt/podcasts/Overheard/season5/bonusBHM/collage-3portraits2.jpg",
+      "publishedAt": "2021-02-17T14:37:22.7296515Z",
+      "content": null
+    },
+    {
+      "source": { "id": "national-geographic", "name": "National Geographic" },
+      "author": null,
+      "title": "Episode 3: Why War Zones Need Science Too",
+      "description": "Undaunted by Yemen’s civil war, National Geographic explorer Ella Al-Shamahi searches on the island of Socotra for traces of the earliest known humans to leave Africa.",
+      "url": "https://www.nationalgeographic.com/podcasts/overheard/season-5/episode-3-why-war-zones-need-science.html",
+      "urlToImage": "https://www.nationalgeographic.com/content/dam/ngdotcom/rights-exempt/podcasts/Overheard/season5/episode3/nationalgeographic_2708459.jpg",
+      "publishedAt": "2021-02-17T14:37:20.2759318Z",
+      "content": null
+    },
+    {
+      "source": { "id": "vice-news", "name": "Vice News" },
+      "author": "Tim Hume",
+      "title": "‘It's The End of Hong Kong’: The National Security Law China Just Approved Is The Protest Movement's Worst Nightmare",
+      "description": "The vote, while expected, sparked anger and despair in Hong Kong, where many fear it marks an end to the city’s freedoms.",
+      "url": "https://www.vice.com/en_us/article/v7gepy/its-the-end-of-hong-kong-the-national-security-law-china-just-approved-is-the-protest-movements-worst-nightmare",
+      "urlToImage": "https://video-images.vice.com/test-uploads/articles/5ecfc0c4cb72ab00943c6d12/lede/1590673620027-AP_20149302208988.jpeg?crop=1xw:0.8431xh;0xw,0.0982xh&resize=1200:*",
+      "publishedAt": "2020-05-28T14:19:42Z",
+      "content": "Want the best of VICE News straight to your inbox? Sign up here.\r\n Chinas parliament approved a controversial new national security law for Hong Kong Thursday, sparking outrage in the city, where opp… [+5246 chars]"
+    }
+  ]
+}

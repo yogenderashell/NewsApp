@@ -1,25 +1,26 @@
-import React, { Component } from "react";
+import React from "react";
 
-export class Newsitem extends Component {
-  render() {
-    let { title, description } = this.props;
+const Newsitem = (props) => {
+    let { title, description, imageUrl, newsUrl, date, author} = props;
     return (
       <>
-        <div className="card" style={{width: "18rem"}}>
-          <img src="/" className="card-img-top" alt="..." />
+      <div className="my-3">
+        <div className="card" style={{height:"29rem"}}>
+          <img style={{height:"15rem",width:"auto"}} src={imageUrl} className="card-img-top" alt="..."/>
           <div className="card-body">
-            <h5 className="card-title">{title}</h5>
+            <h5 className="card-title">{title}...</h5>
+            <p className="card-title"><small className="text-muted">By {!author?"Unknown":author} On {new Date(date).toGMTString()}</small> </p>
             <p className="card-text">
-              {description}
+              {description}...
             </p>
-            <a href="/" className="btn btn-primary">
-              Go somewhere
+            <a href={newsUrl} target="_blank" rel="noopener noreferrer" className="btn btn-sm btn-dark">
+              Read More
             </a>
           </div>
         </div>
+      </div>
       </>
     );
-  }
 }
 
 export default Newsitem;
